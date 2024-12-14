@@ -23,14 +23,14 @@ _`Début du projet le 27/11/2023`_
   - [Icônes](#icônes)
   - [Réseaux sociaux](#réseaux-sociaux)
         <details><summary>Détail</summary>
-        - Facebook Open Graph
-        - Twitter Card
-        - Confidentialité Twitter
-        - Schema org
-        - Pinterest
-        - Articles instantanés Facebook
-        - OEmbed
-        - QQ/Wechat
+          - Facebook Open Graph
+          - Twitter Card
+          - Confidentialité Twitter
+          - Schema org
+          - Pinterest
+          - Articles instantanés Facebook
+          - OEmbed
+          - QQ/Wechat
         </details>
   - [Navigateurs / Plateformes](#navigateurs--plateformes)
         <details><summary>Détail</summary>- Apple iOS
