@@ -488,9 +488,9 @@ Balisage XML minimal requis pour `browserconfig.xml` :
 </browserconfig>
 ```
 
-- 📖 [Schéma de configuration du navigateur [référence](https://msdn.microsoft.com/en-us/library/dn320426.aspx)
+- 📖 Schéma de configuration du navigateur [référence](https://msdn.microsoft.com/en-us/library/dn320426.aspx)
 
-**[⬆ retour en haut](#table-des-matiÃ¨res)**
+**[⬆ retour en haut](#auteur)**
 
 #### Navigateurs (chinois)
 
@@ -562,7 +562,7 @@ Balisage XML minimal requis pour `browserconfig.xml` :
 
 - 📖 [Liens d'application](https://developers.facebook.com/docs/applinks)
 
-**[⬆ retour en haut](#table-des-matieres)**
+**[⬆ retour en haut](#auteur)**
 
 ### Autres ressources
 
