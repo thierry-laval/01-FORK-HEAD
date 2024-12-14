@@ -29,15 +29,13 @@ _`Début du projet le 27/11/2023`_
           - Pinterest
           - Articles instantanés Facebook
           - OEmbed
-          - QQ/Wechat
-        </details>
+          - QQ/Wechat</details>
   - [Navigateurs / Plateformes](#navigateurs--plateformes)
         <details><summary>Détail</summary>- Apple iOS
         - Google Android
         - Google Chrome
         - Microsoft Internet Explorer
   - [Navigateurs (chinois)](#navigateurs-chinois)
-    - Navigateur mobile UC
         <details><summary>Détail</summary>- Navigateur 360
         - Navigateur mobile QQ
         - Navigateur mobile UC
