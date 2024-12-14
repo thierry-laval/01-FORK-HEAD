@@ -7,22 +7,15 @@
 * Github: [@Thierry Laval](https://github.com/thierry-laval)
 * LinkedIn: [@Thierry Laval](https://www.linkedin.com/in/thierry-laval)
 * Visitez ==> 🏠 [Site Web](https://thierrylaval.dev)
-*  Visitez le projet ==> 🏠 [Site du projet](https://thierry-laval.github.io/01-FORK-HEAD/)
+* Visitez le projet ==> 🏠 [Site du projet](https://thierry-laval.github.io/01-FORK-HEAD/)
 
 ***
 
-### 📎 Projet 01-FORK-HEAD - Un guide simple pour les éléments HTML `<head>`
+## 📎 Projet 01-FORK-HEAD - Un guide simple pour les éléments HTML `<head>`
 
 _`Début du projet le 27/11/2023`_
 
-***
-
-### Table des matières
-
-- [](#)
-  - [Auteur](#auteur)
-    - [📎 Projet 01-FORK-HEAD - Un guide simple pour les éléments HTML `<head>`](#-projet-01-fork-head---un-guide-simple-pour-les-éléments-html-head)
-    - [Table des matières](#table-des-matières)
+- [](#)<span style="color:red; font-weight:bold;">Table des matières</span>
       - [Recommandation-minimale](#recommandation-minimale)
       - [Éléments](#éléments)
       - [Méta](#méta)
@@ -49,14 +42,8 @@ _`Début du projet le 27/11/2023`_
       - [Liens d'application](#liens-dapplication)
       - [Autres ressources](#autres-ressources)
       - [Projets associés](#projets-associés)
-      - [🌐 Traductions](#-traductions)
-      - [🤝 Contribuer](#-contribuer)
-      - [👤 Auteur](#-auteur)
-      - [💛 Soutien](#-soutien)
-      - [📝 Licence](#-licence)
-    - [♥    Love Markdown](#love-markdown)
 
-#### Recommandation-minimale
+### Recommandation-minimale
 
 Voici les éléments essentiels pour tout document Web (sites Web/applications) :
 
@@ -81,7 +68,7 @@ Tout autre élément d'en-tête doit apparaître *après* ces balises.
 
 **[⬆ retour en haut](#table-des-matières)**
 
-#### Éléments
+### Éléments
 
 Les éléments `<head>` valides incluent `meta`, `link`, `title`, `style`, `script`, `noscript` et `base`.
 
@@ -120,7 +107,7 @@ soient rendus correctement. -->
 
 **[⬆ retour en haut](#table-des-matières)**
 
-#### Méta
+### Méta
 
 ```html
 <!--
@@ -204,7 +191,7 @@ ne s'applique qu'aux ressources déclarées après elle.
 
 **[⬆ retour en haut](#table-des-matières)**
 
-#### Lien
+### Lien
 
 ```html
 <!-- Pointe vers une feuille de style externe -->
@@ -280,7 +267,7 @@ ne s'applique qu'aux ressources déclarées après elle.
 
 **[⬆ retour en haut](#table-des-matières)**
 
-#### Icônes
+### Icônes
 
 ```html
 <!-- Pour IE 10 et inférieur -->
@@ -303,10 +290,11 @@ ne s'applique qu'aux ressources déclarées après elle.
 
 **[⬆ retour en haut](#table-des-matières)**
 
-#### Réseaux sociaux
+### Réseaux sociaux
 
-##### Facebook Open Graph
-> La plupart du contenu est partagé sur Facebook en tant qu'URL, il est donc important de marquer votre site Web avec des balises Open Graph pour contrôler la façon dont votre contenu apparaît sur Facebook. [En savoir plus sur le balisage Open Graph de Facebook](https://developers.facebook.com/docs/sharing/webmasters#markup)
+#### Facebook Open Graph
+
+La plupart du contenu est partagé sur Facebook en tant qu'URL, il est donc important de marquer votre site Web avec des balises Open Graph pour contrôler la façon dont votre contenu apparaît sur Facebook. [En savoir plus sur le balisage Open Graph de Facebook](https://developers.facebook.com/docs/sharing/webmasters#markup)
 
 ```html
 <meta property="fb:app_id" content="123456789">
@@ -415,9 +403,9 @@ Les utilisateurs qui partagent des pages Web avec qq wechat auront un message fo
 
 **[⬆ retour en haut](#table-des-matières)**
 
-#### Navigateurs / Plateformes
+### Navigateurs / Plateformes
 
-##### Apple iOS
+#### Apple iOS
 
 ```html
 <!-- Bannière d'application intelligente -->
@@ -448,7 +436,7 @@ Les utilisateurs qui partagent des pages Web avec qq wechat auront un message fo
 
 - 📖 [Configuration des applications Web](https://developer.apple.com/library/content/documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html)
 
-##### Google Android
+#### Google Android
 
 ```html
 <meta name="theme-color" content="#E64545">
@@ -462,7 +450,7 @@ Les utilisateurs qui partagent des pages Web avec qq wechat auront un message fo
 <link rel="alternate" href="android-app://package-name/http/url-sample.com">
 ```
 
-##### Google Chrome
+#### Google Chrome
 
 ```html
 <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/APP_ID">
@@ -471,7 +459,7 @@ Les utilisateurs qui partagent des pages Web avec qq wechat auront un message fo
 <meta name="google" content="notranslate">
 ```
 
-##### Microsoft Internet Explorer
+#### Microsoft Internet Explorer
 
 ```html
 <!-- Forcer IE 8/9/10 à utiliser son dernier moteur de rendu -->
@@ -504,16 +492,16 @@ Balisage XML minimal requis pour `browserconfig.xml` :
 
 **[⬆ retour en haut](#table-des-matiÃ¨res)**
 
-##### Navigateurs (chinois)
+#### Navigateurs (chinois)
 
-##### Navigateur 360
+#### Navigateur 360
 
 ```html
 <!-- Sélectionner l'ordre du moteur de rendu -->
 <meta name="renderer" content="webkit|ie-comp|ie-stand">
 ```
 
-##### Navigateur mobile QQ
+#### Navigateur mobile QQ
 
 ```html
 <!-- Verrouille l'écran dans l'orientation spécifiée -->
@@ -526,7 +514,7 @@ Balisage XML minimal requis pour `browserconfig.xml` :
 <meta name="x5-page-mode" content="app">
 ```
 
-##### Navigateur mobile UC
+#### Navigateur mobile UC
 
 ```html
 <!-- Verrouille l'écran dans l'orientation spécifiée -->
@@ -576,19 +564,19 @@ Balisage XML minimal requis pour `browserconfig.xml` :
 
 **[⬆ retour en haut](#table-des-matieres)**
 
-#### Autres ressources
+### Autres ressources
 
 - 📖 [Documents HTML5 Boilerplate : Le HTML](https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/html.md)
 - 📖 [Documents HTML5 Boilerplate : Étendre et personnaliser](https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/extend.md)
 
-#### Projets associés
+### Projets associés
 
 - [Atom HTML Head Snippets](https://github.com/joshbuchea/atom-html-head-snippets) - Paquet Atom pour les extraits `HEAD`
 - [Sublime Text HTML Head Snippets](https://github.com/marcobiedermann/sublime-head-snippets) - Paquet Sublime Text pour les extraits `HEAD`
 - [head-it](https://github.com/hemanth/head-it) - Interface CLI pour les extraits `HEAD`
 - [vue-head](https://github.com/ktquez/vue-head) - Manipulation des méta-informations de la balise `HEAD` pour Vue.js
 
-#### 🌐 Traductions
+## 🌐 Traductions
 
 - 🇫🇷 [Français](https://github.com/thierry-laval/01-FORK-HEAD)
 - 🇮🇩 [Bahasa](https://github.com/rijdz/HEAD)
@@ -604,16 +592,16 @@ Balisage XML minimal requis pour `browserconfig.xml` :
 
 **[⬆ retour en haut](#table-des-matières)**
 
-#### 🤝 Contribuer
+## 🤝 Contribuer
 
 **Ouvrez un ticket ou une demande d'extraction pour suggérer des modifications ou des ajouts.**
 
-#### 👤 Auteur
+## 👤 Développeurs
 
 * GitHub : [@joshbuchea](https://github.com/joshbuchea)
 * GitHub : [@thierry-laval](https://github.com/thierry-laval)
 
-#### 💛 Soutien
+## 💛 Soutien
 
 Si ce projet vous a été utile, à vous ou à votre organisation, pensez à soutenir mon travail directement :
 
@@ -629,7 +617,7 @@ Tout m'aide, merci ! 🙏
 
 [Créer un bon template](https://github.com/thierry-laval/P22-template-pour-un-readme)
 
-#### 📝 Licence
+## 📝 Licence
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
@@ -637,7 +625,7 @@ Tout m'aide, merci ! 🙏
 
 Copyright © 2024 [Thierry Laval](https://thierrylaval.dev)
 
-### &hearts;&nbsp;&nbsp;&nbsp;&nbsp;Love Markdown
+## &hearts;&nbsp;&nbsp;&nbsp;&nbsp;Love Markdown
 
 Donnez une ⭐️ &nbsp;si ce projet vous plaît !
 
