@@ -22,16 +22,16 @@ _`Début du projet le 27/11/2023`_
   - [Lien](#lien)
   - [Icônes](#icônes)
   - [Réseaux sociaux](#réseaux-sociaux)
-        <details><summary>Détail</summary>
-        - Facebook Open Graph
-          - Twitter Card
-          - Confidentialité Twitter
-          - Schema org
-          - Pinterest
-          - Articles instantanés Facebook
-          - OEmbed
-          - QQ/Wechat
-        </details>
+    <details><summary>Détail</summary>
+    - Facebook Open Graph
+    - Twitter Card
+    - Confidentialité Twitter
+    - Schema org
+    - Pinterest
+    - Articles instantanés Facebook
+    - OEmbed
+    - QQ/Wechat
+    </details>
   - [Navigateurs / Plateformes](#navigateurs--plateformes)
         <details><summary>Détail</summary>- Apple iOS
         - Google Android
