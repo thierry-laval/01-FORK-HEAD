@@ -15,7 +15,7 @@
 
 _`Début du projet le 27/11/2023`_
 
-- Table des matiéres
+- Table des matières
   - [Recommandation-minimale](#recommandation-minimale)
   - [Éléments](#éléments)
   - [Méta](#méta)
