@@ -7,6 +7,7 @@
 * Github: [@Thierry Laval](https://github.com/thierry-laval)
 * LinkedIn: [@Thierry Laval](https://www.linkedin.com/in/thierry-laval)
 * Visitez ==> 🏠 [Site Web](https://thierrylaval.dev)
+*  Visitez le projet ==> 🏠 [Site du projet](https://thierry-laval.github.io/01-FORK-HEAD/)
 
 ***
 
