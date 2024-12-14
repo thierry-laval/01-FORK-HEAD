@@ -1,47 +1,61 @@
-# 🤯 HEAD
+# ![left 100%](https://raw.githubusercontent.com/thierry-laval/archives/master/images/logo-portfolio.png "Un bien beau logo !")
 
-> Un guide simple pour les éléments HTML `<head>`
+## Auteur
 
-[![Contributeurs](https://img.shields.io/github/contributors/joshbuchea/head.svg?style=for-the-badge)](https://github.com/joshbuchea/HEAD/graphs/contributors)
-[![CC0](https://img.shields.io/badge/license-CC0-green.svg?style=for-the-badge)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![Suivez @joshbuchea sur Mastodon](https://img.shields.io/badge/Follow_@joshbuchea-purple?logo=mastodon&logoColor=white&style=for-the-badge)](https://hachyderm.io/@joshbuchea)
+👤 &nbsp; **Thierry LAVAL** [🇫🇷 Contactez moi 🇬🇧](<contact@thierrylaval.dev>)
 
-## Table des matières
+* Github: [@Thierry Laval](https://github.com/thierry-laval)
+* LinkedIn: [@Thierry Laval](https://www.linkedin.com/in/thierry-laval)
+* Visitez ==> 🏠 [Site Web](https://thierrylaval.dev)
 
-- [Minimum recommandé](#recommended-minimum)
-- [Éléments](#elements)
-- [Meta](#meta)
-- [Lien](#link)
-- [Icônes](#icons)
-- [Social](#social)
-- [Facebook Open Graph](#facebook-open-graph)
-- [Carte Twitter](#twitter-card)
-- [Confidentialité Twitter](#twitter-privacy)
-- [Schema.org](#schemaorg)
-- [Pinterest](#pinterest)
-- [Facebook Instant Articles](#facebook-instant-articles)
-- [OEmbed](#oembed)
-- [QQ/Wechat](#qqwechat)
-- [Navigateurs / Plateformes](#browsers--platforms)
-- [Apple iOS](#apple-ios)
-- [Google Android](#google-android)
-- [Google Chrome](#google-chrome)
-- [Microsoft Internet Explorer](#microsoft-internet-explorer)
-- [Navigateurs (chinois)](#browsers-chinese)
-- [Navigateur 360](#360-browser)
-- [Navigateur mobile QQ](#qq-mobile-browser)
-- [Navigateur mobile UC](#uc-mobile-browser)
-- [Liens d'application](#app-links)
-- [Autres ressources](#other-resources)
-- [Projets connexes](#related-projects)
-- [Autre Formats](#other-formats)
-- [Traductions](#-translations)
-- [Contribution](#-contribution)
-- [Contributeurs](#contributeurs)
-- [Auteur](#-auteur)
-- [Licence](#-licence)
+***
 
-## Minimum recommandé
+### 📎 Projet 01-FORK-HEAD - Un guide simple pour les éléments HTML `<head>`
+
+_`Début du projet le 27/11/2023`_
+
+***
+
+### Table des matières
+
+- [](#)
+  - [Auteur](#auteur)
+    - [📎 Projet 01-FORK-HEAD - Un guide simple pour les éléments HTML `<head>`](#-projet-01-fork-head---un-guide-simple-pour-les-éléments-html-head)
+    - [Table des matières](#table-des-matières)
+      - [Recommandation-minimale](#recommandation-minimale)
+      - [Éléments](#éléments)
+      - [Méta](#méta)
+      - [Lien](#lien)
+      - [Icônes](#icônes)
+      - [Réseaux sociaux](#réseaux-sociaux)
+        - [Facebook Open Graph](#facebook-open-graph)
+        - [Twitter Card](#twitter-card)
+        - [Confidentialité Twitter](#confidentialité-twitter)
+        - [Schema.org](#schemaorg)
+        - [Pinterest](#pinterest)
+        - [Articles instantanés Facebook](#articles-instantanés-facebook)
+        - [OEmbed](#oembed)
+        - [QQ/Wechat](#qqwechat)
+      - [Navigateurs / Plateformes](#navigateurs--plateformes)
+        - [Apple iOS](#apple-ios)
+        - [Google Android](#google-android)
+        - [Google Chrome](#google-chrome)
+        - [Microsoft Internet Explorer](#microsoft-internet-explorer)
+        - [Navigateurs (chinois)](#navigateurs-chinois)
+        - [Navigateur 360](#navigateur-360)
+        - [Navigateur mobile QQ](#navigateur-mobile-qq)
+        - [Navigateur mobile UC](#navigateur-mobile-uc)
+      - [Liens d'application](#liens-dapplication)
+      - [Autres ressources](#autres-ressources)
+      - [Projets associés](#projets-associés)
+      - [🌐 Traductions](#-traductions)
+      - [🤝 Contribuer](#-contribuer)
+      - [👤 Auteur](#-auteur)
+      - [💛 Soutien](#-soutien)
+      - [📝 Licence](#-licence)
+    - [♥    Love Markdown](#love-markdown)
+
+#### Recommandation-minimale
 
 Voici les éléments essentiels pour tout document Web (sites Web/applications) :
 
@@ -64,9 +78,9 @@ Tout autre élément d'en-tête doit apparaître *après* ces balises.
 
 `initial-scale=1` - le zoom initial, 1 signifie aucun zoom
 
-**[⬆ retour en haut](#table-of-contents)**
+**[⬆ retour en haut](#table-des-matières)**
 
-## Éléments
+#### Éléments
 
 Les éléments `<head>` valides incluent `meta`, `link`, `title`, `style`, `script`, `noscript` et `base`.
 
@@ -105,7 +119,7 @@ soient rendus correctement. -->
 
 **[⬆ retour en haut](#table-des-matières)**
 
-## Méta
+#### Méta
 
 ```html
 <!--
@@ -189,7 +203,7 @@ ne s'applique qu'aux ressources déclarées après elle.
 
 **[⬆ retour en haut](#table-des-matières)**
 
-## Lien
+#### Lien
 
 ```html
 <!-- Pointe vers une feuille de style externe -->
@@ -265,7 +279,7 @@ ne s'applique qu'aux ressources déclarées après elle.
 
 **[⬆ retour en haut](#table-des-matières)**
 
-## Icônes
+#### Icônes
 
 ```html
 <!-- Pour IE 10 et inférieur -->
@@ -288,9 +302,9 @@ ne s'applique qu'aux ressources déclarées après elle.
 
 **[⬆ retour en haut](#table-des-matières)**
 
-## Social
+#### Réseaux sociaux
 
-### Facebook Open Graph
+##### Facebook Open Graph
 > La plupart du contenu est partagé sur Facebook en tant qu'URL, il est donc important de marquer votre site Web avec des balises Open Graph pour contrôler la façon dont votre contenu apparaît sur Facebook. [En savoir plus sur le balisage Open Graph de Facebook](https://developers.facebook.com/docs/sharing/webmasters#markup)
 
 ```html
@@ -309,7 +323,7 @@ ne s'applique qu'aux ressources déclarées après elle.
 - 📖 [Protocole Open Graph](http://ogp.me/)
 - 🛠 Testez votre page avec le [Facebook Sharing Debugger](https://developers.facebook.com/tools/debug/)
 
-### Twitter Card
+##### Twitter Card
 > Avec Twitter Cards, vous pouvez joindre des photos, des vidéos et des expériences multimédias riches aux Tweets, contribuant ainsi à générer du trafic vers votre site Web. [En savoir plus sur les cartes Twitter](https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/abouts-cards)
 
 ```html
@@ -326,14 +340,14 @@ ne s'applique qu'aux ressources déclarées après elle.
 - 📖 [Démarrage avec les cartes — Développeurs Twitter](https://dev.twitter.com/cards/getting-started)
 - 🛠 Testez votre page avec le [Twitter Card Validator](https://cards-dev.twitter.com/validator)
 
-### Confidentialité Twitter
+##### Confidentialité Twitter
 Si vous intégrez des tweets sur votre site Web, Twitter peut utiliser les informations de votre site pour adapter le contenu et les suggestions aux utilisateurs de Twitter. [En savoir plus sur les options de confidentialité de Twitter](https://dev.twitter.com/web/overview/privacy#what-privacy-options-do-website-publishers-have).
 ```html
 <!-- interdire à Twitter d'utiliser les informations de votre site à des fins de personnalisation -->
 <meta name="twitter:dnt" content="on">
 ```
 
-### Schema.org
+##### Schema.org
 
 ```html
 <html lang="" itemscope itemtype="https://schema.org/Article">
@@ -350,7 +364,7 @@ Si vous intégrez des tweets sur votre site Web, Twitter peut utiliser les infor
 - 📖 [Mise en route - schema.org](https://schema.org/docs/gs.html)
 - 🛠 Testez votre page avec le [Test des résultats enrichis](https://search.google.com/test/rich-results)
 
-### Pinterest
+##### Pinterest
 
 Pinterest vous permet d'empêcher les gens d'enregistrer des éléments de votre site Web, selon [leur centre d'aide](https://help.pinterest.com/en/business/article/prevent-saves-to-pinterest-from-your-site). La `description` est facultative.
 
@@ -358,7 +372,7 @@ Pinterest vous permet d'empêcher les gens d'enregistrer des éléments de votre
 <meta name="pinterest" content="nopin" description="Désolé, vous ne pouvez pas enregistrer depuis mon site Web !">
 ```
 
-### Articles instantanés Facebook
+##### Articles instantanés Facebook
 
 ```html
 <meta charset="utf-8">
@@ -374,7 +388,7 @@ Pinterest vous permet d'empêcher les gens d'enregistrer des éléments de votre
 - 📖 [Création d'articles - Articles instantanés](https://developers.facebook.com/docs/instant-articles/guides/articlecreate)
 - 📖 [Exemples de code - Articles instantanés](https://developers.facebook.com/docs/instant-articles/reference)
 
-### OEmbed
+##### OEmbed
 
 ```html
 <link rel="alternate" type="application/json+oembed"
@@ -387,7 +401,7 @@ title="Profil oEmbed : XML">
 
 - 📖 [Format oEmbed](https://oembed.com/)
 
-### QQ/Wechat
+##### QQ/Wechat
 
 Les utilisateurs qui partagent des pages Web avec qq wechat auront un message formaté
 
@@ -398,11 +412,11 @@ Les utilisateurs qui partagent des pages Web avec qq wechat auront un message fo
 ```
 - 📖 [Documents sur le format du code](http://open.mobile.qq.com/api/mqq/index#api:setShareInfo)
 
-**[⬆ retour en haut](#table-of-contents)**
+**[⬆ retour en haut](#table-des-matières)**
 
-## Navigateurs / Plateformes
+#### Navigateurs / Plateformes
 
-### Apple iOS
+##### Apple iOS
 
 ```html
 <!-- Bannière d'application intelligente -->
@@ -433,7 +447,7 @@ Les utilisateurs qui partagent des pages Web avec qq wechat auront un message fo
 
 - 📖 [Configuration des applications Web](https://developer.apple.com/library/content/documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html)
 
-### Google Android
+##### Google Android
 
 ```html
 <meta name="theme-color" content="#E64545">
@@ -447,7 +461,7 @@ Les utilisateurs qui partagent des pages Web avec qq wechat auront un message fo
 <link rel="alternate" href="android-app://package-name/http/url-sample.com">
 ```
 
-### Google Chrome
+##### Google Chrome
 
 ```html
 <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/APP_ID">
@@ -456,7 +470,7 @@ Les utilisateurs qui partagent des pages Web avec qq wechat auront un message fo
 <meta name="google" content="notranslate">
 ```
 
-### Microsoft Internet Explorer
+##### Microsoft Internet Explorer
 
 ```html
 <!-- Forcer IE 8/9/10 à utiliser son dernier moteur de rendu -->
@@ -489,16 +503,16 @@ Balisage XML minimal requis pour `browserconfig.xml` :
 
 **[⬆ retour en haut](#table-des-matiÃ¨res)**
 
-## Navigateurs (chinois)
+##### Navigateurs (chinois)
 
-### Navigateur 360
+##### Navigateur 360
 
 ```html
 <!-- Sélectionner l'ordre du moteur de rendu -->
 <meta name="renderer" content="webkit|ie-comp|ie-stand">
 ```
 
-### Navigateur mobile QQ
+##### Navigateur mobile QQ
 
 ```html
 <!-- Verrouille l'écran dans l'orientation spécifiée -->
@@ -511,7 +525,7 @@ Balisage XML minimal requis pour `browserconfig.xml` :
 <meta name="x5-page-mode" content="app">
 ```
 
-### Navigateur mobile UC
+##### Navigateur mobile UC
 
 ```html
 <!-- Verrouille l'écran dans l'orientation spécifiée -->
@@ -540,7 +554,7 @@ Balisage XML minimal requis pour `browserconfig.xml` :
 
 **[⬆ retour en haut](#table-des-matières)**
 
-## Liens d'application
+#### Liens d'application
 
 ```html
 <!-- iOS -->
@@ -561,29 +575,23 @@ Balisage XML minimal requis pour `browserconfig.xml` :
 
 **[⬆ retour en haut](#table-des-matieres)**
 
-## Autres ressources
+#### Autres ressources
 
 - 📖 [Documents HTML5 Boilerplate : Le HTML](https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/html.md)
 - 📖 [Documents HTML5 Boilerplate : Étendre et personnaliser](https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/extend.md)
 
-**[⬆ retour à [top](#table-of-contents)**
+**[⬆ retour en haut](#table-des-matières)**
 
-## Projets associés
+#### Projets associés
 
 - [Atom HTML Head Snippets](https://github.com/joshbuchea/atom-html-head-snippets) - Paquet Atom pour les extraits `HEAD`
 - [Sublime Text HTML Head Snippets](https://github.com/marcobiedermann/sublime-head-snippets) - Paquet Sublime Text pour les extraits `HEAD`
 - [head-it](https://github.com/hemanth/head-it) - Interface CLI pour les extraits `HEAD`
 - [vue-head](https://github.com/ktquez/vue-head) - Manipulation des méta-informations de la balise `HEAD` pour Vue.js
 
-**[⬆ retour en haut](#table-of-contents)**
-
-## Autres formats
-
-- 📄 [PDF](https://gitprint.com/joshbuchea/HEAD/blob/master/README.md)
-
 **[⬆ retour en haut](#table-des-matières)**
 
-## 🌐 Traductions
+#### 🌐 Traductions
 
 - 🇫🇷 [Français](https://github.com/thierry-laval/01-FORK-HEAD)
 - 🇮🇩 [Bahasa](https://github.com/rijdz/HEAD)
@@ -599,58 +607,47 @@ Balisage XML minimal requis pour `browserconfig.xml` :
 
 **[⬆ retour en haut](#table-des-matières)**
 
-## 🤝 Contribuer
+#### 🤝 Contribuer
 
 **Ouvrez un ticket ou une demande d'extraction pour suggérer des modifications ou des ajouts.**
 
-### Guide
+#### 👤 Auteur
 
-Le référentiel **HEAD** se compose de deux branches :
+* GitHub : [@joshbuchea](https://github.com/joshbuchea)
+* GitHub : [@thierry-laval](https://github.com/thierry-laval)
 
-#### 1. `master`
-
-Cette branche se compose du fichier `README.md` qui est reflété sur le site Web [htmlhead.dev](https://htmlhead.dev/). Toutes les modifications apportées au contenu du guide doivent être effectuées dans ce fichier.
-
-Veuillez suivre ces étapes pour les demandes d'extraction :
-
-{:.list-style-default}
-- Ne modifiez qu'une seule balise ou un ensemble de balises associées à la fois
-- Utilisez des guillemets doubles sur les attributs
-- N'incluez pas de barre oblique de fin dans les éléments à fermeture automatique : la spécification HTML5 indique qu'ils sont facultatifs
-- Pensez à inclure un lien vers la documentation qui prend en charge votre modification
-
-#### 2. `gh-pages`
-
-Cette branche est responsable du site Web [htmlhead.dev](https://htmlhead.dev/). Nous utilisons [Jekyll](https://jekyllrb.com/) pour déployer le fichier markdown `README.md` sur [GitHub Pages](https://pages.github.com/). Toutes les modifications liées au site Web doivent être effectuées dans cette branche.
-
-Il peut être utile de consulter la [documentation Jekyll](https://jekyllrb.com/docs/home/) et de comprendre le fonctionnement de Jekyll avant de travailler dans cette branche.
-
-## 🌟 Contributeurs
-
-Découvrez tous les [contributeurs](https://github.com/joshbuchea/HEAD/graphs/contributors) super géniaux 🤩
-
-## 👤 Auteur
-
-**Josh Buchea**
-
-- GitHub : [@joshbuchea](https://github.com/joshbuchea)
-- Mastodon : [@joshbuchea@hachyderm.io](https://hachyderm.io/@joshbuchea)
-
-## 💛 Soutien
+#### 💛 Soutien
 
 Si ce projet vous a été utile, à vous ou à votre organisation, pensez à soutenir mon travail directement :
 
-- 💛 [Parrainez-moi sur GitHub](https://github.com/sponsors/joshbuchea)
-- ⭐️ [Ajoutez une étoile à ce projet sur GitHub](https://github.com/joshbuchea/HEAD)
-- 🐙 [Suivez-moi sur GitHub](https://github.com/joshbuchea)
-- 🐘 [Suivez-moi sur Mastodon](https://hachyderm.io/@joshbuchea)
+- 💛 [Parrainez-moi sur GitHub](https://github.com/sponsors/thierry-laval)
+
+Si vous appréciez ce projet, vous pouvez me soutenir :
+
+<a href="https://paypal.me/thierrylaval01?country.x=FR&locale.x=fr_FR" target="_blank"><img src="https://www.paypalobjects.com/digitalassets/c/website/logo/full-text/pp_fc_hl.svg" alt="Soutiens-moi !" height="35" width="150"></a>
 
 Tout m'aide, merci ! 🙏
 
-— Josh
+[Voir mon travail](https://github.com/thierry-laval)
 
-## 📝 Licence
+[Créer un bon template](https://github.com/thierry-laval/P22-template-pour-un-readme)
+
+#### 📝 Licence
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-**[⬆ retour en haut](#table-des-matières)**
+"Dans la mesure permise par la législation, [Josh Buchea](http://joshbuchea.com) renonce à tous les droits d'auteur et droits connexes ou relatifs à ce travail."
+
+Copyright © 2024 [Thierry Laval](https://thierrylaval.dev)
+
+### &hearts;&nbsp;&nbsp;&nbsp;&nbsp;Love Markdown
+
+Donnez une ⭐️ &nbsp;si ce projet vous plaît !
+
+<span style="font-family:Papyrus; font-size:4em;">FAN DE GITHUB !</span>
+
+<!-- [This is an image](https://myoctocat.com/assets/images/base-octocat.svg) -->
+
+<a href="url"><img src="https://github.com/thierry-laval/P00-mes-archives/blob/master/images/octocat-oley.png" height="300"></a>
+
+**[⬆ Retour en haut](#auteur)** <br>
