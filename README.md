@@ -66,7 +66,7 @@ Tout autre élément d'en-tête doit apparaître *après* ces balises.
 
 `initial-scale=1` - le zoom initial, 1 signifie aucun zoom
 
-**[⬆ retour en haut](#table-des-matières)**
+**[⬆ retour en haut](#auteur)**
 
 ### Éléments
 
@@ -105,7 +105,7 @@ soient rendus correctement. -->
 </noscript>
 ```
 
-**[⬆ retour en haut](#table-des-matières)**
+**[⬆ retour en haut](#auteur)**
 
 ### Méta
 
@@ -189,7 +189,7 @@ ne s'applique qu'aux ressources déclarées après elle.
 - 📖 [ICBM sur Wikipédia](https://en.wikipedia.org/wiki/ICBM_address#Modern_use)
 - 📖 [Géolocalisation sur Wikipédia](https://en.wikipedia.org/wiki/Géolocalisation#HTML_pages)
 
-**[⬆ retour en haut](#table-des-matières)**
+**[⬆ retour en haut](#auteur)**
 
 ### Lien
 
@@ -265,7 +265,7 @@ ne s'applique qu'aux ressources déclarées après elle.
 
 - 📖 [Relations de liens](https://www.iana.org/assignments/link-relations/link-relations.xhtml)
 
-**[⬆ retour en haut](#table-des-matières)**
+**[⬆ retour en haut](#auteur)**
 
 ### Icônes
 
@@ -288,7 +288,7 @@ ne s'applique qu'aux ressources déclarées après elle.
 - 📖 [Aide-mémoire sur les favicons](https://github.com/audreyr/favicon-cheat-sheet)
 - 📖 [Icônes et couleurs du navigateur](https://developers.google.com/web/fundamentals/design-and-ux/browser-customization/)
 
-**[⬆ retour en haut](#table-des-matières)**
+**[⬆ retour en haut](#auteur)**
 
 ### Réseaux sociaux
 
@@ -401,7 +401,7 @@ Les utilisateurs qui partagent des pages Web avec qq wechat auront un message fo
 ```
 - 📖 [Documents sur le format du code](http://open.mobile.qq.com/api/mqq/index#api:setShareInfo)
 
-**[⬆ retour en haut](#table-des-matières)**
+**[⬆ retour en haut](#auteur)**
 
 ### Navigateurs / Plateformes
 
@@ -541,7 +541,7 @@ Balisage XML minimal requis pour `browserconfig.xml` :
 
 - 📖 [Documents du navigateur UC](https://www.uc.cn/download/UCBrowser_U3_API.doc)
 
-**[⬆ retour en haut](#table-des-matières)**
+**[⬆ retour en haut](#auteur)**
 
 #### Liens d'application
 
@@ -590,7 +590,7 @@ Balisage XML minimal requis pour `browserconfig.xml` :
 - 🇪🇸 [Espagnol](https://github.com/alvaroadlf/HEAD)
 - 🇹🇷 [Turc/Türkçe](https://github.com/mkg0/HEAD)
 
-**[⬆ retour en haut](#table-des-matières)**
+**[⬆ retour en haut](#auteur)**
 
 ## 🤝 Contribuer
 
