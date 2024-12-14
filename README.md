@@ -35,7 +35,7 @@ _`Début du projet le 27/11/2023`_
     - [Google Android](#google-android)
     - [Google Chrome](#google-chrome)
     - [Microsoft Internet Explorer](#microsoft-internet-explorer)
-    - [Navigateurs (chinois)](#navigateurs-chinois)
+  - [Navigateurs (chinois)](#navigateurs-chinois)
     - [Navigateur 360](#navigateur-360)
     - [Navigateur mobile QQ](#navigateur-mobile-qq)
     - [Navigateur mobile UC](#navigateur-mobile-uc)
@@ -492,7 +492,7 @@ Balisage XML minimal requis pour `browserconfig.xml` :
 
 **[⬆ retour en haut](#auteur)**
 
-#### Navigateurs (chinois)
+### Navigateurs (chinois)
 
 #### Navigateur 360
 
@@ -543,7 +543,7 @@ Balisage XML minimal requis pour `browserconfig.xml` :
 
 **[⬆ retour en haut](#auteur)**
 
-#### Liens d'application
+### Liens d'application
 
 ```html
 <!-- iOS -->
@@ -575,6 +575,8 @@ Balisage XML minimal requis pour `browserconfig.xml` :
 - [Sublime Text HTML Head Snippets](https://github.com/marcobiedermann/sublime-head-snippets) - Paquet Sublime Text pour les extraits `HEAD`
 - [head-it](https://github.com/hemanth/head-it) - Interface CLI pour les extraits `HEAD`
 - [vue-head](https://github.com/ktquez/vue-head) - Manipulation des méta-informations de la balise `HEAD` pour Vue.js
+
+**[⬆ retour en haut](#auteur)**
 
 ## 🌐 Traductions
 
@@ -625,7 +627,7 @@ Tout m'aide, merci ! 🙏
 
 Copyright © 2024 [Thierry Laval](https://thierrylaval.dev)
 
-## &hearts;&nbsp;&nbsp;&nbsp;&nbsp;Love Markdown
+## &hearts; Love Markdown
 
 Donnez une ⭐️ &nbsp;si ce projet vous plaît !
 
