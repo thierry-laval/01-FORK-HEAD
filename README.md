@@ -22,23 +22,25 @@ _`Début du projet le 27/11/2023`_
   - [Lien](#lien)
   - [Icônes](#icônes)
   - [Réseaux sociaux](#réseaux-sociaux)
-    - Facebook Open Graph
-    - Twitter Card
-    - Confidentialité Twitter
-    - Schema org
-    - Pinterest
-    - Articles instantanés Facebook
-    - OEmbed
-    - QQ/Wechat
+        <details><summary>Détail</summary>- Facebook Open Graph
+          - Twitter Card
+          - Confidentialité Twitter
+          - Schema org
+          - Pinterest
+          - Articles instantanés Facebook
+          - OEmbed
+          - QQ/Wechat
+        </details>
   - [Navigateurs / Plateformes](#navigateurs--plateformes)
-    - Apple iOS
-    - Google Android
-    - Google Chrome
-    - Microsoft Internet Explorer
+        <details><summary>Détail</summary>- Apple iOS
+        - Google Android
+        - Google Chrome
+        - Microsoft Internet Explorer
   - [Navigateurs (chinois)](#navigateurs-chinois)
-    - Navigateur 360
-    - Navigateur mobile QQ
     - Navigateur mobile UC
+        <details><summary>Détail</summary>- Navigateur 360
+        - Navigateur mobile QQ
+        - Navigateur mobile UC
   - [Liens d'application](#liens-dapplication)
   - [Autres ressources](#autres-ressources)
   - [Projets associés](#projets-associés)
