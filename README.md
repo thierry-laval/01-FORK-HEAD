@@ -22,28 +22,30 @@ _`Début du projet le 27/11/2023`_
   - [Lien](#lien)
   - [Icônes](#icônes)
   - [Réseaux sociaux](#réseaux-sociaux)
-    - [Facebook Open Graph](#facebook-open-graph)
-    - [Twitter Card](#twitter-card)
-    - [Confidentialité Twitter](#confidentialité-twitter)
-    - [Schema.org](#schemaorg)
-    - [Pinterest](#pinterest)
-    - [Articles instantanés Facebook](#articles-instantanés-facebook)
-    - [OEmbed](#oembed)
-    - [QQ/Wechat](#qqwechat)
+    - Facebook Open Graph
+    - Twitter Card
+    - Confidentialité Twitter
+    - Schema org
+    - Pinterest
+    - Articles instantanés Facebook
+    - OEmbed
+    - QQ/Wechat
   - [Navigateurs / Plateformes](#navigateurs--plateformes)
-    - [Apple iOS](#apple-ios)
-    - [Google Android](#google-android)
-    - [Google Chrome](#google-chrome)
-    - [Microsoft Internet Explorer](#microsoft-internet-explorer)
+    - Apple iOS
+    - Google Android
+    - Google Chrome
+    - Microsoft Internet Explorer
   - [Navigateurs (chinois)](#navigateurs-chinois)
-    - [Navigateur 360](#navigateur-360)
-    - [Navigateur mobile QQ](#navigateur-mobile-qq)
-    - [Navigateur mobile UC](#navigateur-mobile-uc)
+    - Navigateur 360
+    - Navigateur mobile QQ
+    - Navigateur mobile UC
   - [Liens d'application](#liens-dapplication)
   - [Autres ressources](#autres-ressources)
   - [Projets associés](#projets-associés)
 
 ### Recommandation-minimale
+
+<details><summary>Ouvrir la balise</summary>
 
 Voici les éléments essentiels pour tout document Web (sites Web/applications) :
 
@@ -66,9 +68,11 @@ Tout autre élément d'en-tête doit apparaître *après* ces balises.
 
 `initial-scale=1` - le zoom initial, 1 signifie aucun zoom
 
-**[⬆ retour en haut](#auteur)**
+</details>
 
 ### Éléments
+
+<details><summary>Ouvrir la balise</summary>
 
 Les éléments `<head>` valides incluent `meta`, `link`, `title`, `style`, `script`, `noscript` et `base`.
 
@@ -105,9 +109,11 @@ soient rendus correctement. -->
 </noscript>
 ```
 
-**[⬆ retour en haut](#auteur)**
+</details>
 
 ### Méta
+
+<details><summary>Ouvrir la balise</summary>
 
 ```html
 <!--
@@ -189,9 +195,11 @@ ne s'applique qu'aux ressources déclarées après elle.
 - 📖 [ICBM sur Wikipédia](https://en.wikipedia.org/wiki/ICBM_address#Modern_use)
 - 📖 [Géolocalisation sur Wikipédia](https://en.wikipedia.org/wiki/Géolocalisation#HTML_pages)
 
-**[⬆ retour en haut](#auteur)**
+</details>
 
 ### Lien
+
+<details><summary>Ouvrir la balise</summary>
 
 ```html
 <!-- Pointe vers une feuille de style externe -->
@@ -265,9 +273,11 @@ ne s'applique qu'aux ressources déclarées après elle.
 
 - 📖 [Relations de liens](https://www.iana.org/assignments/link-relations/link-relations.xhtml)
 
-**[⬆ retour en haut](#auteur)**
+</details>
 
 ### Icônes
+
+<details><summary>Ouvrir la balise</summary>
 
 ```html
 <!-- Pour IE 10 et inférieur -->
@@ -288,9 +298,11 @@ ne s'applique qu'aux ressources déclarées après elle.
 - 📖 [Aide-mémoire sur les favicons](https://github.com/audreyr/favicon-cheat-sheet)
 - 📖 [Icônes et couleurs du navigateur](https://developers.google.com/web/fundamentals/design-and-ux/browser-customization/)
 
-**[⬆ retour en haut](#auteur)**
+</details>
 
 ### Réseaux sociaux
+
+<details><summary>Ouvrir la balise</summary>
 
 #### Facebook Open Graph
 
@@ -312,7 +324,7 @@ La plupart du contenu est partagé sur Facebook en tant qu'URL, il est donc impo
 - 📖 [Protocole Open Graph](http://ogp.me/)
 - 🛠 Testez votre page avec le [Facebook Sharing Debugger](https://developers.facebook.com/tools/debug/)
 
-##### Twitter Card
+#### Twitter Card
 > Avec Twitter Cards, vous pouvez joindre des photos, des vidéos et des expériences multimédias riches aux Tweets, contribuant ainsi à générer du trafic vers votre site Web. [En savoir plus sur les cartes Twitter](https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/abouts-cards)
 
 ```html
@@ -329,14 +341,14 @@ La plupart du contenu est partagé sur Facebook en tant qu'URL, il est donc impo
 - 📖 [Démarrage avec les cartes — Développeurs Twitter](https://dev.twitter.com/cards/getting-started)
 - 🛠 Testez votre page avec le [Twitter Card Validator](https://cards-dev.twitter.com/validator)
 
-##### Confidentialité Twitter
+#### Confidentialité Twitter
 Si vous intégrez des tweets sur votre site Web, Twitter peut utiliser les informations de votre site pour adapter le contenu et les suggestions aux utilisateurs de Twitter. [En savoir plus sur les options de confidentialité de Twitter](https://dev.twitter.com/web/overview/privacy#what-privacy-options-do-website-publishers-have).
 ```html
 <!-- interdire à Twitter d'utiliser les informations de votre site à des fins de personnalisation -->
 <meta name="twitter:dnt" content="on">
 ```
 
-##### Schema.org
+#### Schema org
 
 ```html
 <html lang="" itemscope itemtype="https://schema.org/Article">
@@ -353,7 +365,7 @@ Si vous intégrez des tweets sur votre site Web, Twitter peut utiliser les infor
 - 📖 [Mise en route - schema.org](https://schema.org/docs/gs.html)
 - 🛠 Testez votre page avec le [Test des résultats enrichis](https://search.google.com/test/rich-results)
 
-##### Pinterest
+#### Pinterest
 
 Pinterest vous permet d'empêcher les gens d'enregistrer des éléments de votre site Web, selon [leur centre d'aide](https://help.pinterest.com/en/business/article/prevent-saves-to-pinterest-from-your-site). La `description` est facultative.
 
@@ -361,7 +373,7 @@ Pinterest vous permet d'empêcher les gens d'enregistrer des éléments de votre
 <meta name="pinterest" content="nopin" description="Désolé, vous ne pouvez pas enregistrer depuis mon site Web !">
 ```
 
-##### Articles instantanés Facebook
+#### Articles instantanés Facebook
 
 ```html
 <meta charset="utf-8">
@@ -377,7 +389,7 @@ Pinterest vous permet d'empêcher les gens d'enregistrer des éléments de votre
 - 📖 [Création d'articles - Articles instantanés](https://developers.facebook.com/docs/instant-articles/guides/articlecreate)
 - 📖 [Exemples de code - Articles instantanés](https://developers.facebook.com/docs/instant-articles/reference)
 
-##### OEmbed
+#### OEmbed
 
 ```html
 <link rel="alternate" type="application/json+oembed"
@@ -390,7 +402,7 @@ title="Profil oEmbed : XML">
 
 - 📖 [Format oEmbed](https://oembed.com/)
 
-##### QQ/Wechat
+#### QQ/Wechat
 
 Les utilisateurs qui partagent des pages Web avec qq wechat auront un message formaté
 
@@ -401,9 +413,11 @@ Les utilisateurs qui partagent des pages Web avec qq wechat auront un message fo
 ```
 - 📖 [Documents sur le format du code](http://open.mobile.qq.com/api/mqq/index#api:setShareInfo)
 
-**[⬆ retour en haut](#auteur)**
+</details>
 
 ### Navigateurs / Plateformes
+
+<details><summary>Ouvrir la balise</summary>
 
 #### Apple iOS
 
@@ -492,7 +506,11 @@ Balisage XML minimal requis pour `browserconfig.xml` :
 
 **[⬆ retour en haut](#auteur)**
 
+</details>
+
 ### Navigateurs (chinois)
+
+<details><summary>Ouvrir la balise</summary>
 
 #### Navigateur 360
 
@@ -543,7 +561,11 @@ Balisage XML minimal requis pour `browserconfig.xml` :
 
 **[⬆ retour en haut](#auteur)**
 
+</details>
+
 ### Liens d'application
+
+<details><summary>Ouvrir la balise</summary>
 
 ```html
 <!-- iOS -->
@@ -562,21 +584,27 @@ Balisage XML minimal requis pour `browserconfig.xml` :
 
 - 📖 [Liens d'application](https://developers.facebook.com/docs/applinks)
 
-**[⬆ retour en haut](#auteur)**
+</details>
 
 ### Autres ressources
+
+<details><summary>Ouvrir la balise</summary>
 
 - 📖 [Documents HTML5 Boilerplate : Le HTML](https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/html.md)
 - 📖 [Documents HTML5 Boilerplate : Étendre et personnaliser](https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/extend.md)
 
+</details>
+
 ### Projets associés
+
+<details><summary>Ouvrir la balise</summary>
 
 - [Atom HTML Head Snippets](https://github.com/joshbuchea/atom-html-head-snippets) - Paquet Atom pour les extraits `HEAD`
 - [Sublime Text HTML Head Snippets](https://github.com/marcobiedermann/sublime-head-snippets) - Paquet Sublime Text pour les extraits `HEAD`
 - [head-it](https://github.com/hemanth/head-it) - Interface CLI pour les extraits `HEAD`
 - [vue-head](https://github.com/ktquez/vue-head) - Manipulation des méta-informations de la balise `HEAD` pour Vue.js
 
-**[⬆ retour en haut](#auteur)**
+</details>
 
 ## 🌐 Traductions
 
@@ -638,3 +666,6 @@ Donnez une ⭐️ &nbsp;si ce projet vous plaît !
 <a href="url"><img src="https://github.com/thierry-laval/P00-mes-archives/blob/master/images/octocat-oley.png" height="300"></a>
 
 **[⬆ Retour en haut](#auteur)** <br>
+
+
+<details><summary> </summary></details>
