@@ -15,41 +15,33 @@
 
 _`Début du projet le 27/11/2023`_
 
-- [](#)
-  - [Auteur](#auteur)
-  - [📎 Projet 01-FORK-HEAD - Un guide simple pour les éléments HTML `<head>`](#-projet-01-fork-head---un-guide-simple-pour-les-éléments-html-head)
-    - [Recommandation-minimale](#recommandation-minimale)
-    - [Éléments](#éléments)
-    - [Méta](#méta)
-    - [Lien](#lien)
-    - [Icônes](#icônes)
-    - [Réseaux sociaux](#réseaux-sociaux)
-      - [Facebook Open Graph](#facebook-open-graph)
-        - [Twitter Card](#twitter-card)
-        - [Confidentialité Twitter](#confidentialité-twitter)
-        - [Schema.org](#schemaorg)
-        - [Pinterest](#pinterest)
-        - [Articles instantanés Facebook](#articles-instantanés-facebook)
-        - [OEmbed](#oembed)
-        - [QQ/Wechat](#qqwechat)
-    - [Navigateurs / Plateformes](#navigateurs--plateformes)
-      - [Apple iOS](#apple-ios)
-      - [Google Android](#google-android)
-      - [Google Chrome](#google-chrome)
-      - [Microsoft Internet Explorer](#microsoft-internet-explorer)
-      - [Navigateurs (chinois)](#navigateurs-chinois)
-      - [Navigateur 360](#navigateur-360)
-      - [Navigateur mobile QQ](#navigateur-mobile-qq)
-      - [Navigateur mobile UC](#navigateur-mobile-uc)
-      - [Liens d'application](#liens-dapplication)
-    - [Autres ressources](#autres-ressources)
-    - [Projets associés](#projets-associés)
-  - [🌐 Traductions](#-traductions)
-  - [🤝 Contribuer](#-contribuer)
-  - [👤 Développeurs](#-développeurs)
-  - [💛 Soutien](#-soutien)
-  - [📝 Licence](#-licence)
-  - [♥ Love Markdown](#-love-markdown)
+<span style="color:red; font-weight:bold;">Table des matières</span>
+ - [Recommandation-minimale](#recommandation-minimale)
+ - [Éléments](#éléments)
+ - [Méta](#méta)
+ - [Lien](#lien)
+ - [Icônes](#icônes)
+ - [Réseaux sociaux](#réseaux-sociaux)
+  - [Facebook Open Graph](#facebook-open-graph)
+  - [Twitter Card](#twitter-card)
+  - [Confidentialité Twitter](#confidentialité-twitter)
+  - [Schema.org](#schemaorg)
+  - [Pinterest](#pinterest)
+  - [Articles instantanés Facebook](#articles-instantanés-facebook)
+  - [OEmbed](#oembed)
+  - [QQ/Wechat](#qqwechat)
+ - [Navigateurs / Plateformes](#navigateurs--plateformes)
+  - [Apple iOS](#apple-ios)
+  - [Google Android](#google-android)
+  - [Google Chrome](#google-chrome)
+  - [Microsoft Internet Explorer](#microsoft-internet-explorer)
+  - [Navigateurs (chinois)](#navigateurs-chinois)
+  - [Navigateur 360](#navigateur-360)
+  - [Navigateur mobile QQ](#navigateur-mobile-qq)
+  - [Navigateur mobile UC](#navigateur-mobile-uc)
+ - [Liens d'application](#liens-dapplication)
+ - [Autres ressources](#autres-ressources)
+ - [Projets associés](#projets-associés)
 
 ### Recommandation-minimale
 
@@ -74,7 +66,7 @@ Tout autre élément d'en-tête doit apparaître *après* ces balises.
 
 `initial-scale=1` - le zoom initial, 1 signifie aucun zoom
 
-**[⬆ retour en haut](#auteur)**
+**[⬆ retour en haut](#table-des-matières)**
 
 ### Éléments
 
@@ -633,7 +625,7 @@ Tout m'aide, merci ! 🙏
 
 Copyright © 2024 [Thierry Laval](https://thierrylaval.dev)
 
-## &hearts; Love Markdown
+## &hearts;&nbsp;&nbsp;&nbsp;&nbsp;Love Markdown
 
 Donnez une ⭐️ &nbsp;si ce projet vous plaît !
 
