@@ -608,6 +608,8 @@ Balisage XML minimal requis pour `browserconfig.xml` :
 
 ## 🌐 Traductions
 
+<details><summary>Ouvrir la balise</summary>
+
 - 🇫🇷 [Français](https://github.com/thierry-laval/01-FORK-HEAD)
 - 🇮🇩 [Bahasa](https://github.com/rijdz/HEAD)
 - 🇧🇷 [Portugais brésilien](https://github.com/Webschool-io/HEAD)
@@ -620,7 +622,7 @@ Balisage XML minimal requis pour `browserconfig.xml` :
 - 🇪🇸 [Espagnol](https://github.com/alvaroadlf/HEAD)
 - 🇹🇷 [Turc/Türkçe](https://github.com/mkg0/HEAD)
 
-**[⬆ retour en haut](#auteur)**
+</details>
 
 ## 🤝 Contribuer
 
@@ -637,7 +639,7 @@ Si ce projet vous a été utile, à vous ou à votre organisation, pensez à sou
 
 - 💛 [Parrainez-moi sur GitHub](https://github.com/sponsors/thierry-laval)
 
-Si vous appréciez ce projet, vous pouvez me soutenir :
+Si vous appréciez ce projet, vous pouvez me soutenir avec un don :
 
 <a href="https://paypal.me/thierrylaval01?country.x=FR&locale.x=fr_FR" target="_blank"><img src="https://www.paypalobjects.com/digitalassets/c/website/logo/full-text/pp_fc_hl.svg" alt="Soutiens-moi !" height="35" width="150"></a>
 
@@ -649,9 +651,13 @@ Tout m'aide, merci ! 🙏
 
 ## 📝 Licence
 
+<details><summary>Ouvrir la balise</summary>
+
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 "Dans la mesure permise par la législation, [Josh Buchea](http://joshbuchea.com) renonce à tous les droits d'auteur et droits connexes ou relatifs à ce travail."
+
+</details>
 
 Copyright © 2024 [Thierry Laval](https://thierrylaval.dev)
 
