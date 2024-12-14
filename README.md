@@ -15,13 +15,13 @@
 
 _`Début du projet le 27/11/2023`_
 
-- [](#)<span style="color:red; font-weight:bold;">Table des matières</span>
-      - [Recommandation-minimale](#recommandation-minimale)
-      - [Éléments](#éléments)
-      - [Méta](#méta)
-      - [Lien](#lien)
-      - [Icônes](#icônes)
-      - [Réseaux sociaux](#réseaux-sociaux)
+<span style="color:red; font-weight:bold;">Table des matières</span>
+ - [Recommandation-minimale](#recommandation-minimale)
+ - [Éléments](#éléments)
+ - [Méta](#méta)
+ - [Lien](#lien)
+ - [Icônes](#icônes)
+ - [Réseaux sociaux](#réseaux-sociaux)
         - [Facebook Open Graph](#facebook-open-graph)
         - [Twitter Card](#twitter-card)
         - [Confidentialité Twitter](#confidentialité-twitter)
@@ -30,7 +30,7 @@ _`Début du projet le 27/11/2023`_
         - [Articles instantanés Facebook](#articles-instantanés-facebook)
         - [OEmbed](#oembed)
         - [QQ/Wechat](#qqwechat)
-      - [Navigateurs / Plateformes](#navigateurs--plateformes)
+ - [Navigateurs / Plateformes](#navigateurs--plateformes)
         - [Apple iOS](#apple-ios)
         - [Google Android](#google-android)
         - [Google Chrome](#google-chrome)
@@ -39,9 +39,9 @@ _`Début du projet le 27/11/2023`_
         - [Navigateur 360](#navigateur-360)
         - [Navigateur mobile QQ](#navigateur-mobile-qq)
         - [Navigateur mobile UC](#navigateur-mobile-uc)
-      - [Liens d'application](#liens-dapplication)
-      - [Autres ressources](#autres-ressources)
-      - [Projets associés](#projets-associés)
+ - [Liens d'application](#liens-dapplication)
+ - [Autres ressources](#autres-ressources)
+ - [Projets associés](#projets-associés)
 
 ### Recommandation-minimale
 
