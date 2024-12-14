@@ -580,16 +580,12 @@ Balisage XML minimal requis pour `browserconfig.xml` :
 - 📖 [Documents HTML5 Boilerplate : Le HTML](https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/html.md)
 - 📖 [Documents HTML5 Boilerplate : Étendre et personnaliser](https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/extend.md)
 
-**[⬆ retour en haut](#table-des-matières)**
-
 #### Projets associés
 
 - [Atom HTML Head Snippets](https://github.com/joshbuchea/atom-html-head-snippets) - Paquet Atom pour les extraits `HEAD`
 - [Sublime Text HTML Head Snippets](https://github.com/marcobiedermann/sublime-head-snippets) - Paquet Sublime Text pour les extraits `HEAD`
 - [head-it](https://github.com/hemanth/head-it) - Interface CLI pour les extraits `HEAD`
 - [vue-head](https://github.com/ktquez/vue-head) - Manipulation des méta-informations de la balise `HEAD` pour Vue.js
-
-**[⬆ retour en haut](#table-des-matières)**
 
 #### 🌐 Traductions
 
