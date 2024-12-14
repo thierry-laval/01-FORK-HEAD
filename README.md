@@ -15,12 +15,9 @@
 
 _`Début du projet le 27/11/2023`_
 
-### Table des matières
-
 - [](#)
   - [Auteur](#auteur)
   - [📎 Projet 01-FORK-HEAD - Un guide simple pour les éléments HTML `<head>`](#-projet-01-fork-head---un-guide-simple-pour-les-éléments-html-head)
-    - [Table des matières](#table-des-matières)
     - [Recommandation-minimale](#recommandation-minimale)
     - [Éléments](#éléments)
     - [Méta](#méta)
@@ -52,7 +49,7 @@ _`Début du projet le 27/11/2023`_
   - [👤 Développeurs](#-développeurs)
   - [💛 Soutien](#-soutien)
   - [📝 Licence](#-licence)
-  - [♥    Love Markdown](#love-markdown)
+  - [♥ Love Markdown](#-love-markdown)
 
 ### Recommandation-minimale
 
@@ -77,7 +74,7 @@ Tout autre élément d'en-tête doit apparaître *après* ces balises.
 
 `initial-scale=1` - le zoom initial, 1 signifie aucun zoom
 
-**[⬆ retour en haut](#table-des-matières)**
+**[⬆ retour en haut](#auteur)**
 
 ### Éléments
 
@@ -636,7 +633,7 @@ Tout m'aide, merci ! 🙏
 
 Copyright © 2024 [Thierry Laval](https://thierrylaval.dev)
 
-## &hearts;&nbsp;&nbsp;&nbsp;&nbsp;Love Markdown
+## &hearts; Love Markdown
 
 Donnez une ⭐️ &nbsp;si ce projet vous plaît !
 
